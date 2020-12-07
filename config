@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	symlinks = false
+	ignorecase = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/mozartrombocks/mysite.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
